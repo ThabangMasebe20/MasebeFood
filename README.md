@@ -1,4 +1,5 @@
 # MasebeFood
+MasebeFood is a customer-focused food business proudly owned and operated by Thabang Masebe, located at Renstown, Hammanskraal.
 A website for a food business, showcasing their menu, contact info, and online ordering options.
 
 ```sh
